@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage telephone (Toscano PM1920)
+* source:	https://sketchfab.com/3d-models/vintage-telephone-toscano-pm1920-841b25d049c1431fbce61556a742a08c
+* author:	Fredrik Johansen (https://sketchfab.com/kird3rf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage telephone (Toscano PM1920)" (https://sketchfab.com/3d-models/vintage-telephone-toscano-pm1920-841b25d049c1431fbce61556a742a08c) by Fredrik Johansen (https://sketchfab.com/kird3rf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
