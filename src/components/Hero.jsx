@@ -14,7 +14,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} m-2 text-white-100`}>Hi, <span className="text-[#915eff]"> I'm Ola</span> 
           </h1>
-          <p className={`${styles.heroSubText} m-2 text-white-100`}> I have extensive experience in marketing, graphic design,<br className="sm:block hidden"/>  art direction, motion design, and customer support.
+          <p className={`${styles.heroSubText} m-2 text-white-100`}> I have extensive experience in marketing, graphic design,<br className="sm:block hidden"/>  art direction, motion design, and customer experience.
           </p>
           <p className={`${styles.heroSubText} m-2 text-white-100`}>Currently, I am expanding my skill set to include <br className="sm:block hidden"/>  Front-End Development.
           </p>
@@ -23,25 +23,6 @@ const Hero = () => {
 
       <ComputersCanvas />
 
-      <div className="absolute xs:bottom-15 bottom-18 w-full flex justify-center items-center">
-        <a href="#about">
-          <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
-            <motion.div 
-              className="w-3 h-3 rounded-full bg-secondary mb-1"
-              animate={{
-                y: [0, 24, 0]
-              }}
-              transition={{
-                duration: 1.5,
-                repeat: Infinity,
-                repeatType: 'loop'
-              }}
-            />
-          </div>
-
-        </a>
-
-      </div>
       </section>
   )
 }
