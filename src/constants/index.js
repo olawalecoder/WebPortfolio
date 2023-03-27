@@ -4,17 +4,17 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
-  mongodb,
   git,
   figma,
-  docker,
+  photoshop,
+  illustrator,
+  aftereffects,
+  premierpro,
   meta,
   starbucks,
   tesla,
@@ -42,24 +42,40 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Graphic Designer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Motion Graphics Designer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Digital Marketer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "FrontEnd Developer",
     icon: creator,
   },
 ];
 
 const technologies = [
+  {
+    name: "Photoshop",
+    icon: photoshop,
+  },
+  {
+    name: "Illustrator",
+    icon: illustrator,
+  },
+  {
+    name: "After Effects",
+    icon: aftereffects,
+  },
+  {
+    name: "Premier Pro",
+    icon: premierpro,
+  },
   {
     name: "HTML 5",
     icon: html,
@@ -73,16 +89,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -91,10 +99,6 @@ const technologies = [
   {
     name: "Node JS",
     icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
   },
   {
     name: "Three JS",
@@ -107,10 +111,6 @@ const technologies = [
   {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
